@@ -1,0 +1,542 @@
+[
+  {
+    "id": 19213540272,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-07-07T06:53:00Z",
+    "moving_time": 2939,
+    "distance": 15771.6,
+    "average_heartrate": 145.6
+  },
+  {
+    "id": 19213316562,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-07-07T06:53:42Z",
+    "moving_time": 2926,
+    "distance": 15782.6,
+    "average_heartrate": null
+  },
+  {
+    "id": 19227321029,
+    "type": "Run",
+    "name": "Need to get better",
+    "start_date_local": "2026-07-08T07:10:00Z",
+    "moving_time": 1179,
+    "distance": 2399.6,
+    "average_heartrate": null
+  },
+  {
+    "id": 19243586869,
+    "type": "Swim",
+    "name": "Morning Swim",
+    "start_date_local": "2026-07-09T07:20:00Z",
+    "moving_time": 1500,
+    "distance": 740.3,
+    "average_heartrate": null
+  },
+  {
+    "id": 19268690840,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-07-11T07:17:00Z",
+    "moving_time": 4259,
+    "distance": 24349.3,
+    "average_heartrate": 142.2
+  },
+  {
+    "id": 19268365175,
+    "type": "Ride",
+    "name": "First longer ride",
+    "start_date_local": "2026-07-11T07:17:16Z",
+    "moving_time": 4237,
+    "distance": 24351.5,
+    "average_heartrate": null
+  },
+  {
+    "id": 19293209664,
+    "type": "Run",
+    "name": "Full Run",
+    "start_date_local": "2026-07-13T07:13:26Z",
+    "moving_time": 922,
+    "distance": 2431.9,
+    "average_heartrate": null
+  },
+  {
+    "id": 19326802680,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-07-15T07:37:02Z",
+    "moving_time": 2396,
+    "distance": 13599.0,
+    "average_heartrate": 148.3
+  },
+  {
+    "id": 19322483209,
+    "type": "Ride",
+    "name": "Ride",
+    "start_date_local": "2026-07-15T07:37:05Z",
+    "moving_time": 2375,
+    "distance": 13601.3,
+    "average_heartrate": null
+  },
+  {
+    "id": 19364929838,
+    "type": "Workout",
+    "name": "Morning Workout",
+    "start_date_local": "2026-07-18T09:54:00Z",
+    "moving_time": 3476,
+    "distance": 0.0,
+    "average_heartrate": 167.5
+  },
+  {
+    "id": 19364026041,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-07-18T09:54:59Z",
+    "moving_time": 1947,
+    "distance": 9831.5,
+    "average_heartrate": null
+  },
+  {
+    "id": 19364261035,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-07-18T10:30:30Z",
+    "moving_time": 995,
+    "distance": 2459.2,
+    "average_heartrate": null
+  },
+  {
+    "id": 19401942371,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-07-21T06:53:01Z",
+    "moving_time": 2876,
+    "distance": 15884.2,
+    "average_heartrate": 138.9
+  },
+  {
+    "id": 19401663818,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-07-21T06:53:26Z",
+    "moving_time": 2865,
+    "distance": 15893.4,
+    "average_heartrate": null
+  },
+  {
+    "id": 19431207725,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-07-23T07:17:00Z",
+    "moving_time": 1378,
+    "distance": 3395.7,
+    "average_heartrate": 157.6
+  },
+  {
+    "id": 19430592962,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-07-23T07:17:30Z",
+    "moving_time": 1407,
+    "distance": 3408.3,
+    "average_heartrate": null
+  },
+  {
+    "id": 19444692372,
+    "type": "Swim",
+    "name": "Morning Swim",
+    "start_date_local": "2026-07-24T07:30:00Z",
+    "moving_time": 1500,
+    "distance": 800.9,
+    "average_heartrate": null
+  },
+  {
+    "id": 19487069027,
+    "type": "Walk",
+    "name": "Morning Walk",
+    "start_date_local": "2026-07-27T10:23:51Z",
+    "moving_time": 2469,
+    "distance": 1542.5,
+    "average_heartrate": 84.2
+  },
+  {
+    "id": 19499000389,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-07-28T07:15:54Z",
+    "moving_time": 2769,
+    "distance": 15902.7,
+    "average_heartrate": null
+  },
+  {
+    "id": 19542812089,
+    "type": "Run",
+    "name": "Beach Run",
+    "start_date_local": "2026-07-31T06:22:34Z",
+    "moving_time": 1461,
+    "distance": 3598.5,
+    "average_heartrate": null
+  },
+  {
+    "id": 19562941614,
+    "type": "Walk",
+    "name": "Evening Walk",
+    "start_date_local": "2026-08-01T19:48:36Z",
+    "moving_time": 2142,
+    "distance": 961.7,
+    "average_heartrate": 108.6
+  },
+  {
+    "id": 19576768007,
+    "type": "Workout",
+    "name": "Afternoon Volleyball",
+    "start_date_local": "2026-08-02T17:33:21Z",
+    "moving_time": 5732,
+    "distance": 2398.2,
+    "average_heartrate": 123.6
+  },
+  {
+    "id": 19611578864,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-08-05T07:33:01Z",
+    "moving_time": 1198,
+    "distance": 0.0,
+    "average_heartrate": 152.0
+  },
+  {
+    "id": 19646596966,
+    "type": "Walk",
+    "name": "Evening Walk",
+    "start_date_local": "2026-08-07T18:06:35Z",
+    "moving_time": 1464,
+    "distance": 1043.1,
+    "average_heartrate": 80.3
+  },
+  {
+    "id": 19694926027,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-08-11T07:27:01Z",
+    "moving_time": 1136,
+    "distance": 5857.9,
+    "average_heartrate": 133.5
+  },
+  {
+    "id": 19694651833,
+    "type": "Ride",
+    "name": "Getting Back into things",
+    "start_date_local": "2026-08-11T07:27:26Z",
+    "moving_time": 1129,
+    "distance": 5859.5,
+    "average_heartrate": null
+  },
+  {
+    "id": 19703613258,
+    "type": "Ride",
+    "name": "Evening Ride",
+    "start_date_local": "2026-08-11T18:45:17Z",
+    "moving_time": 1818,
+    "distance": 0.0,
+    "average_heartrate": 167.5
+  },
+  {
+    "id": 19703296898,
+    "type": "Ride",
+    "name": "Evening Run",
+    "start_date_local": "2026-08-11T18:46:24Z",
+    "moving_time": 1704,
+    "distance": 10159.3,
+    "average_heartrate": null
+  },
+  {
+    "id": 19738359632,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-08-14T07:31:59Z",
+    "moving_time": 1243,
+    "distance": 2725.4,
+    "average_heartrate": 148.4
+  },
+  {
+    "id": 19737854316,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-08-14T07:32:01Z",
+    "moving_time": 897,
+    "distance": 2180.3,
+    "average_heartrate": null
+  },
+  {
+    "id": 19784107728,
+    "type": "Walk",
+    "name": "Afternoon Walk",
+    "start_date_local": "2026-08-17T13:47:59Z",
+    "moving_time": 2669,
+    "distance": 1711.3,
+    "average_heartrate": 104.9
+  },
+  {
+    "id": 19802264110,
+    "type": "Ride",
+    "name": "Evening Ride",
+    "start_date_local": "2026-08-18T20:07:29Z",
+    "moving_time": 2060,
+    "distance": 11583.7,
+    "average_heartrate": null
+  },
+  {
+    "id": 19831004965,
+    "type": "Run",
+    "name": "Evening Run",
+    "start_date_local": "2026-08-20T20:10:00Z",
+    "moving_time": 1799,
+    "distance": 4844.1,
+    "average_heartrate": 183.8
+  },
+  {
+    "id": 19830848669,
+    "type": "Run",
+    "name": "Evening Run",
+    "start_date_local": "2026-08-20T20:10:59Z",
+    "moving_time": 1821,
+    "distance": 4849.7,
+    "average_heartrate": null
+  },
+  {
+    "id": 19851146250,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-08-22T07:57:48Z",
+    "moving_time": 6713,
+    "distance": 38076.0,
+    "average_heartrate": 145.3
+  },
+  {
+    "id": 19879089917,
+    "type": "Walk",
+    "name": "Morning Walk",
+    "start_date_local": "2026-08-24T09:52:50Z",
+    "moving_time": 1558,
+    "distance": 1007.7,
+    "average_heartrate": 88.0
+  },
+  {
+    "id": 19886625878,
+    "type": "Swim",
+    "name": "Afternoon Swim",
+    "start_date_local": "2026-08-24T17:44:00Z",
+    "moving_time": 1020,
+    "distance": 800.1,
+    "average_heartrate": null
+  },
+  {
+    "id": 19884414356,
+    "type": "Swim",
+    "name": "Afternoon Swim",
+    "start_date_local": "2026-08-24T17:44:22Z",
+    "moving_time": 1018,
+    "distance": 800.0,
+    "average_heartrate": 127.5
+  },
+  {
+    "id": 19891358243,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-08-25T07:03:37Z",
+    "moving_time": 1459,
+    "distance": 8711.0,
+    "average_heartrate": 149.3
+  },
+  {
+    "id": 19891579315,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-08-25T07:29:50Z",
+    "moving_time": 677,
+    "distance": 1800.2,
+    "average_heartrate": 157.2
+  },
+  {
+    "id": 19921203337,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-08-27T06:31:07Z",
+    "moving_time": 3789,
+    "distance": 23434.0,
+    "average_heartrate": 130.6
+  },
+  {
+    "id": 19934662205,
+    "type": "Swim",
+    "name": "Morning Swim",
+    "start_date_local": "2026-08-28T07:15:47Z",
+    "moving_time": 735,
+    "distance": 600.0,
+    "average_heartrate": 118.1
+  },
+  {
+    "id": 19934999675,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-08-28T07:37:38Z",
+    "moving_time": 1262,
+    "distance": 3218.0,
+    "average_heartrate": 180.1
+  },
+  {
+    "id": 19935114433,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-08-28T08:02:06Z",
+    "moving_time": 430,
+    "distance": 1108.0,
+    "average_heartrate": 176.0
+  },
+  {
+    "id": 19983215422,
+    "type": "Ride",
+    "name": "Evening Ride",
+    "start_date_local": "2026-08-31T19:36:03Z",
+    "moving_time": 2191,
+    "distance": 14058.2,
+    "average_heartrate": 156.4
+  },
+  {
+    "id": 19998641688,
+    "type": "Run",
+    "name": "Evening Run",
+    "start_date_local": "2026-09-01T20:01:23Z",
+    "moving_time": 1800,
+    "distance": 4531.0,
+    "average_heartrate": 183.5
+  },
+  {
+    "id": 20020930775,
+    "type": "Walk",
+    "name": "Morning Walk",
+    "start_date_local": "2026-09-03T10:43:29Z",
+    "moving_time": 730,
+    "distance": 927.0,
+    "average_heartrate": 92.0
+  },
+  {
+    "id": 20024708095,
+    "type": "Ride",
+    "name": "Afternoon Ride",
+    "start_date_local": "2026-09-03T14:39:09Z",
+    "moving_time": 3024,
+    "distance": 17301.0,
+    "average_heartrate": 165.5
+  },
+  {
+    "id": 20024975288,
+    "type": "Run",
+    "name": "Afternoon Run",
+    "start_date_local": "2026-09-03T15:38:03Z",
+    "moving_time": 1356,
+    "distance": 2398.0,
+    "average_heartrate": 158.0
+  },
+  {
+    "id": 20073872480,
+    "type": "Ride",
+    "name": "Week of tri",
+    "start_date_local": "2026-09-07T09:24:04Z",
+    "moving_time": 1239,
+    "distance": 8229.6,
+    "average_heartrate": 142.3
+  },
+  {
+    "id": 20117618445,
+    "type": "Walk",
+    "name": "Morning Walk",
+    "start_date_local": "2026-09-10T10:33:40Z",
+    "moving_time": 741,
+    "distance": 845.3,
+    "average_heartrate": 89.5
+  },
+  {
+    "id": 20122021486,
+    "type": "Run",
+    "name": "Final Workout",
+    "start_date_local": "2026-09-10T15:53:54Z",
+    "moving_time": 2454,
+    "distance": 5229.7,
+    "average_heartrate": 176.3
+  },
+  {
+    "id": 20144126653,
+    "type": "Run",
+    "name": "Tri the Parks",
+    "start_date_local": "2026-09-12T09:05:03Z",
+    "moving_time": 1696,
+    "distance": 5084.3,
+    "average_heartrate": 152.3
+  },
+  {
+    "id": 20185974965,
+    "type": "Walk",
+    "name": "Morning Walk",
+    "start_date_local": "2026-09-15T10:31:35Z",
+    "moving_time": 792,
+    "distance": 936.0,
+    "average_heartrate": 101.8
+  },
+  {
+    "id": 20193171273,
+    "type": "Run",
+    "name": "Evening Run",
+    "start_date_local": "2026-09-15T19:48:12Z",
+    "moving_time": 1198,
+    "distance": 2430.7,
+    "average_heartrate": 151.5
+  },
+  {
+    "id": 20266140616,
+    "type": "Run",
+    "name": "Easy run wk2",
+    "start_date_local": "2026-09-21T07:16:53Z",
+    "moving_time": 1178,
+    "distance": 2759.0,
+    "average_heartrate": 161.4
+  },
+  {
+    "id": 20294810763,
+    "type": "Ride",
+    "name": "First half mini brick",
+    "start_date_local": "2026-09-23T06:54:59Z",
+    "moving_time": 1503,
+    "distance": 0.0,
+    "average_heartrate": 136.7
+  },
+  {
+    "id": 20294872952,
+    "type": "Run",
+    "name": "Second half of my mini brick",
+    "start_date_local": "2026-09-23T07:20:16Z",
+    "moving_time": 239,
+    "distance": 534.7,
+    "average_heartrate": 149.0
+  },
+  {
+    "id": 20329832269,
+    "type": "WeightTraining",
+    "name": "Evening Weight Training",
+    "start_date_local": "2026-09-25T19:07:50Z",
+    "moving_time": 849,
+    "distance": 0.0,
+    "average_heartrate": 96.0
+  },
+  {
+    "id": 20330065103,
+    "type": "Run",
+    "name": "Evening Run",
+    "start_date_local": "2026-09-25T19:37:15Z",
+    "moving_time": 1475,
+    "distance": 3893.3,
+    "average_heartrate": 178.4
+  }
+]
