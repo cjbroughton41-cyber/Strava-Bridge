@@ -19,7 +19,7 @@ import requests
 
 STATE_PATH = "state.json"
 ACTIVITIES_PATH = "activities.json"
-MAX_ACTIVITIES = 300  # keep the file small; oldest entries are trimmed once exceeded
+MAX_ACTIVITIES = 60  # keep the file small; oldest entries are trimmed once exceeded
 
 
 def load_json(path, default):
