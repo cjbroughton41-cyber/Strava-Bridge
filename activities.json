@@ -1,14 +1,5 @@
 [
   {
-    "id": 19213316562,
-    "type": "Ride",
-    "name": "Morning Ride",
-    "start_date_local": "2026-07-07T06:53:42Z",
-    "moving_time": 2926,
-    "distance": 15782.6,
-    "average_heartrate": null
-  },
-  {
     "id": 19227321029,
     "type": "Run",
     "name": "Need to get better",
@@ -538,5 +529,14 @@
     "moving_time": 1921,
     "distance": 0.0,
     "average_heartrate": 124.7
+  },
+  {
+    "id": 20386545998,
+    "type": "WeightTraining",
+    "name": "Evening Weight Training",
+    "start_date_local": "2026-09-29T19:57:19Z",
+    "moving_time": 1332,
+    "distance": 0.0,
+    "average_heartrate": 103.9
   }
 ]
