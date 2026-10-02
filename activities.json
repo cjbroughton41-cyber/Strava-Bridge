@@ -1,14 +1,5 @@
 [
   {
-    "id": 19227321029,
-    "type": "Run",
-    "name": "Need to get better",
-    "start_date_local": "2026-07-08T07:10:00Z",
-    "moving_time": 1179,
-    "distance": 2399.6,
-    "average_heartrate": null
-  },
-  {
     "id": 19243586869,
     "type": "Swim",
     "name": "Morning Swim",
@@ -538,5 +529,14 @@
     "moving_time": 1332,
     "distance": 0.0,
     "average_heartrate": 103.9
+  },
+  {
+    "id": 20413963120,
+    "type": "Ride",
+    "name": "Evening Ride",
+    "start_date_local": "2026-10-01T19:35:37Z",
+    "moving_time": 2744,
+    "distance": 0.0,
+    "average_heartrate": 151.2
   }
 ]
