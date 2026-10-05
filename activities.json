@@ -1,14 +1,5 @@
 [
   {
-    "id": 19243586869,
-    "type": "Swim",
-    "name": "Morning Swim",
-    "start_date_local": "2026-07-09T07:20:00Z",
-    "moving_time": 1500,
-    "distance": 740.3,
-    "average_heartrate": null
-  },
-  {
     "id": 19268690840,
     "type": "Ride",
     "name": "Morning Ride",
@@ -538,5 +529,14 @@
     "moving_time": 2744,
     "distance": 0.0,
     "average_heartrate": 151.2
+  },
+  {
+    "id": 20466589725,
+    "type": "Ride",
+    "name": "Afternoon Ride",
+    "start_date_local": "2026-10-05T17:53:17Z",
+    "moving_time": 2739,
+    "distance": 0.0,
+    "average_heartrate": 146.1
   }
 ]
