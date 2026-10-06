@@ -1,14 +1,5 @@
 [
   {
-    "id": 19268690840,
-    "type": "Ride",
-    "name": "Morning Ride",
-    "start_date_local": "2026-07-11T07:17:00Z",
-    "moving_time": 4259,
-    "distance": 24349.3,
-    "average_heartrate": 142.2
-  },
-  {
     "id": 19268365175,
     "type": "Ride",
     "name": "First longer ride",
@@ -538,5 +529,14 @@
     "moving_time": 2739,
     "distance": 0.0,
     "average_heartrate": 146.1
+  },
+  {
+    "id": 20476603865,
+    "type": "Walk",
+    "name": "Lunch Walk",
+    "start_date_local": "2026-10-06T12:10:23Z",
+    "moving_time": 941,
+    "distance": 1231.4,
+    "average_heartrate": 107.7
   }
 ]
