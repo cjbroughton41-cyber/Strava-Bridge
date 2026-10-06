@@ -1,14 +1,5 @@
 [
   {
-    "id": 19268365175,
-    "type": "Ride",
-    "name": "First longer ride",
-    "start_date_local": "2026-07-11T07:17:16Z",
-    "moving_time": 4237,
-    "distance": 24351.5,
-    "average_heartrate": null
-  },
-  {
     "id": 19293209664,
     "type": "Run",
     "name": "Full Run",
@@ -538,5 +529,14 @@
     "moving_time": 941,
     "distance": 1231.4,
     "average_heartrate": 107.7
+  },
+  {
+    "id": 20479533300,
+    "type": "Walk",
+    "name": "Afternoon Walk",
+    "start_date_local": "2026-10-06T15:06:30Z",
+    "moving_time": 1650,
+    "distance": 2039.0,
+    "average_heartrate": 109.2
   }
 ]
