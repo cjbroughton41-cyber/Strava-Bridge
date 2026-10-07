@@ -1,14 +1,5 @@
 [
   {
-    "id": 19293209664,
-    "type": "Run",
-    "name": "Full Run",
-    "start_date_local": "2026-07-13T07:13:26Z",
-    "moving_time": 922,
-    "distance": 2431.9,
-    "average_heartrate": null
-  },
-  {
     "id": 19326802680,
     "type": "Ride",
     "name": "Morning Ride",
@@ -538,5 +529,14 @@
     "moving_time": 1650,
     "distance": 2039.0,
     "average_heartrate": 109.2
+  },
+  {
+    "id": 20490324654,
+    "type": "Walk",
+    "name": "Lunch Walk",
+    "start_date_local": "2026-10-07T11:06:00Z",
+    "moving_time": 1746,
+    "distance": 2373.0,
+    "average_heartrate": 100.5
   }
 ]
