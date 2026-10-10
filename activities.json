@@ -1,14 +1,5 @@
 [
   {
-    "id": 19322483209,
-    "type": "Ride",
-    "name": "Ride",
-    "start_date_local": "2026-07-15T07:37:05Z",
-    "moving_time": 2375,
-    "distance": 13601.3,
-    "average_heartrate": null
-  },
-  {
     "id": 19364929838,
     "type": "Workout",
     "name": "Morning Workout",
@@ -538,5 +529,14 @@
     "moving_time": 2817,
     "distance": 0.0,
     "average_heartrate": 148.7
+  },
+  {
+    "id": 20521304201,
+    "type": "Ride",
+    "name": "Afternoon Ride",
+    "start_date_local": "2026-10-09T17:48:59Z",
+    "moving_time": 9035,
+    "distance": 0.0,
+    "average_heartrate": 135.0
   }
 ]
