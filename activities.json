@@ -1,14 +1,5 @@
 [
   {
-    "id": 19364026041,
-    "type": "Ride",
-    "name": "Morning Ride",
-    "start_date_local": "2026-07-18T09:54:59Z",
-    "moving_time": 1947,
-    "distance": 9831.5,
-    "average_heartrate": null
-  },
-  {
     "id": 19364261035,
     "type": "Run",
     "name": "Morning Run",
@@ -538,5 +529,14 @@
     "moving_time": 3551,
     "distance": 0.0,
     "average_heartrate": 116.2
+  },
+  {
+    "id": 20554249086,
+    "type": "VirtualRide",
+    "name": "ROUVY - Montreal | Worlds Time Trial | Canada",
+    "start_date_local": "2026-10-12T08:42:21Z",
+    "moving_time": 3163,
+    "distance": 28000.1,
+    "average_heartrate": 149.7
   }
 ]
