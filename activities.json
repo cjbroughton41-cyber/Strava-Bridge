@@ -1,14 +1,5 @@
 [
   {
-    "id": 19364929838,
-    "type": "Workout",
-    "name": "Morning Workout",
-    "start_date_local": "2026-07-18T09:54:00Z",
-    "moving_time": 3476,
-    "distance": 0.0,
-    "average_heartrate": 167.5
-  },
-  {
     "id": 19364026041,
     "type": "Ride",
     "name": "Morning Ride",
@@ -538,5 +529,14 @@
     "moving_time": 9035,
     "distance": 0.0,
     "average_heartrate": 135.0
+  },
+  {
+    "id": 20554107680,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-10-12T08:41:23Z",
+    "moving_time": 3551,
+    "distance": 0.0,
+    "average_heartrate": 116.2
   }
 ]
