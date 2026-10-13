@@ -1,23 +1,5 @@
 [
   {
-    "id": 19401663818,
-    "type": "Ride",
-    "name": "Morning Ride",
-    "start_date_local": "2026-07-21T06:53:26Z",
-    "moving_time": 2865,
-    "distance": 15893.4,
-    "average_heartrate": null
-  },
-  {
-    "id": 19431207725,
-    "type": "Run",
-    "name": "Morning Run",
-    "start_date_local": "2026-07-23T07:17:00Z",
-    "moving_time": 1378,
-    "distance": 3395.7,
-    "average_heartrate": 157.6
-  },
-  {
     "id": 19430592962,
     "type": "Run",
     "name": "Morning Run",
@@ -538,5 +520,23 @@
     "moving_time": 1625,
     "distance": 12960.2,
     "average_heartrate": 143.8
+  },
+  {
+    "id": 20573560577,
+    "type": "Ride",
+    "name": "Afternoon Ride",
+    "start_date_local": "2026-10-13T16:07:14Z",
+    "moving_time": 3774,
+    "distance": 0.0,
+    "average_heartrate": 158.5
+  },
+  {
+    "id": 20573554316,
+    "type": "VirtualRide",
+    "name": "ROUVY - Foundation Aerobic Endurance",
+    "start_date_local": "2026-10-13T16:37:15Z",
+    "moving_time": 1922,
+    "distance": 15842.5,
+    "average_heartrate": 169.5
   }
 ]
