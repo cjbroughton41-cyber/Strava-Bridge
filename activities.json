@@ -1,14 +1,5 @@
 [
   {
-    "id": 19430592962,
-    "type": "Run",
-    "name": "Morning Run",
-    "start_date_local": "2026-07-23T07:17:30Z",
-    "moving_time": 1407,
-    "distance": 3408.3,
-    "average_heartrate": null
-  },
-  {
     "id": 19444692372,
     "type": "Swim",
     "name": "Morning Swim",
@@ -538,5 +529,14 @@
     "moving_time": 1922,
     "distance": 15842.5,
     "average_heartrate": 169.5
+  },
+  {
+    "id": 20583298309,
+    "type": "Walk",
+    "name": "Lunch Walk",
+    "start_date_local": "2026-10-14T11:01:07Z",
+    "moving_time": 1533,
+    "distance": 2109.5,
+    "average_heartrate": 107.1
   }
 ]
