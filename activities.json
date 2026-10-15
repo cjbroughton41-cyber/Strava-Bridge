@@ -1,14 +1,5 @@
 [
   {
-    "id": 19444692372,
-    "type": "Swim",
-    "name": "Morning Swim",
-    "start_date_local": "2026-07-24T07:30:00Z",
-    "moving_time": 1500,
-    "distance": 800.9,
-    "average_heartrate": null
-  },
-  {
     "id": 19487069027,
     "type": "Walk",
     "name": "Morning Walk",
@@ -538,5 +529,14 @@
     "moving_time": 1533,
     "distance": 2109.5,
     "average_heartrate": 107.1
+  },
+  {
+    "id": 20602145988,
+    "type": "VirtualRide",
+    "name": "ROUVY - Aerobic Base Expansion",
+    "start_date_local": "2026-10-15T18:02:20Z",
+    "moving_time": 3595,
+    "distance": 25512.4,
+    "average_heartrate": 156.7
   }
 ]
