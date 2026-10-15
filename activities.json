@@ -1,14 +1,5 @@
 [
   {
-    "id": 19487069027,
-    "type": "Walk",
-    "name": "Morning Walk",
-    "start_date_local": "2026-07-27T10:23:51Z",
-    "moving_time": 2469,
-    "distance": 1542.5,
-    "average_heartrate": 84.2
-  },
-  {
     "id": 19499000389,
     "type": "Ride",
     "name": "Morning Ride",
@@ -538,5 +529,14 @@
     "moving_time": 3595,
     "distance": 25512.4,
     "average_heartrate": 156.7
+  },
+  {
+    "id": 20602281934,
+    "type": "Ride",
+    "name": "Evening Ride",
+    "start_date_local": "2026-10-15T18:03:03Z",
+    "moving_time": 4123,
+    "distance": 0.0,
+    "average_heartrate": 150.0
   }
 ]
