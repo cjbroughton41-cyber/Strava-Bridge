@@ -1,23 +1,5 @@
 [
   {
-    "id": 19499000389,
-    "type": "Ride",
-    "name": "Morning Ride",
-    "start_date_local": "2026-07-28T07:15:54Z",
-    "moving_time": 2769,
-    "distance": 15902.7,
-    "average_heartrate": null
-  },
-  {
-    "id": 19542812089,
-    "type": "Run",
-    "name": "Beach Run",
-    "start_date_local": "2026-07-31T06:22:34Z",
-    "moving_time": 1461,
-    "distance": 3598.5,
-    "average_heartrate": null
-  },
-  {
     "id": 19562941614,
     "type": "Walk",
     "name": "Evening Walk",
@@ -538,5 +520,23 @@
     "moving_time": 4123,
     "distance": 0.0,
     "average_heartrate": 150.0
+  },
+  {
+    "id": 20622339560,
+    "type": "Ride",
+    "name": "Morning Ride",
+    "start_date_local": "2026-10-17T09:08:21Z",
+    "moving_time": 4141,
+    "distance": 0.0,
+    "average_heartrate": 139.2
+  },
+  {
+    "id": 20622311317,
+    "type": "VirtualRide",
+    "name": "ROUVY - Island of the Greek gods | Naxos | Greece",
+    "start_date_local": "2026-10-17T09:12:48Z",
+    "moving_time": 3697,
+    "distance": 27165.0,
+    "average_heartrate": 139.3
   }
 ]
