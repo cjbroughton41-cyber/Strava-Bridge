@@ -1,23 +1,5 @@
 [
   {
-    "id": 19562941614,
-    "type": "Walk",
-    "name": "Evening Walk",
-    "start_date_local": "2026-08-01T19:48:36Z",
-    "moving_time": 2142,
-    "distance": 961.7,
-    "average_heartrate": 108.6
-  },
-  {
-    "id": 19576768007,
-    "type": "Workout",
-    "name": "Afternoon Volleyball",
-    "start_date_local": "2026-08-02T17:33:21Z",
-    "moving_time": 5732,
-    "distance": 2398.2,
-    "average_heartrate": 123.6
-  },
-  {
     "id": 19611578864,
     "type": "Ride",
     "name": "Morning Ride",
@@ -538,5 +520,23 @@
     "moving_time": 3697,
     "distance": 27165.0,
     "average_heartrate": 139.3
+  },
+  {
+    "id": 20655167481,
+    "type": "Ride",
+    "name": "Evening Ride",
+    "start_date_local": "2026-10-19T20:48:32Z",
+    "moving_time": 3513,
+    "distance": 0.0,
+    "average_heartrate": 145.6
+  },
+  {
+    "id": 20655163107,
+    "type": "VirtualRide",
+    "name": "ROUVY - Cromwell - Kawarau Gorge | New Zealand",
+    "start_date_local": "2026-10-19T20:50:37Z",
+    "moving_time": 3307,
+    "distance": 25000.3,
+    "average_heartrate": 147.1
   }
 ]
