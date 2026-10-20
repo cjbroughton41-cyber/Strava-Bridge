@@ -1,23 +1,5 @@
 [
   {
-    "id": 19611578864,
-    "type": "Ride",
-    "name": "Morning Ride",
-    "start_date_local": "2026-08-05T07:33:01Z",
-    "moving_time": 1198,
-    "distance": 0.0,
-    "average_heartrate": 152.0
-  },
-  {
-    "id": 19646596966,
-    "type": "Walk",
-    "name": "Evening Walk",
-    "start_date_local": "2026-08-07T18:06:35Z",
-    "moving_time": 1464,
-    "distance": 1043.1,
-    "average_heartrate": 80.3
-  },
-  {
     "id": 19694926027,
     "type": "Ride",
     "name": "Morning Ride",
@@ -538,5 +520,23 @@
     "moving_time": 3307,
     "distance": 25000.3,
     "average_heartrate": 147.1
+  },
+  {
+    "id": 20666483996,
+    "type": "Ride",
+    "name": "Afternoon Ride",
+    "start_date_local": "2026-10-20T16:02:27Z",
+    "moving_time": 3424,
+    "distance": 0.0,
+    "average_heartrate": 145.3
+  },
+  {
+    "id": 20666477586,
+    "type": "VirtualRide",
+    "name": "ROUVY - Tempo Intervals",
+    "start_date_local": "2026-10-20T16:02:55Z",
+    "moving_time": 3360,
+    "distance": 26533.8,
+    "average_heartrate": 146.0
   }
 ]
