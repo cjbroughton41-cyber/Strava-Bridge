@@ -1,23 +1,5 @@
 [
   {
-    "id": 19694926027,
-    "type": "Ride",
-    "name": "Morning Ride",
-    "start_date_local": "2026-08-11T07:27:01Z",
-    "moving_time": 1136,
-    "distance": 5857.9,
-    "average_heartrate": 133.5
-  },
-  {
-    "id": 19694651833,
-    "type": "Ride",
-    "name": "Getting Back into things",
-    "start_date_local": "2026-08-11T07:27:26Z",
-    "moving_time": 1129,
-    "distance": 5859.5,
-    "average_heartrate": null
-  },
-  {
     "id": 19703613258,
     "type": "Ride",
     "name": "Evening Ride",
@@ -538,5 +520,23 @@
     "moving_time": 3360,
     "distance": 26533.8,
     "average_heartrate": 146.0
+  },
+  {
+    "id": 20759010729,
+    "type": "Ride",
+    "name": "Evening Ride",
+    "start_date_local": "2026-10-27T19:44:24Z",
+    "moving_time": 3335,
+    "distance": 0.0,
+    "average_heartrate": 157.3
+  },
+  {
+    "id": 20759003966,
+    "type": "VirtualRide",
+    "name": "ROUVY - VO2 Max Intervals (4x3 min)",
+    "start_date_local": "2026-10-27T19:44:45Z",
+    "moving_time": 3246,
+    "distance": 21215.2,
+    "average_heartrate": 157.8
   }
 ]
