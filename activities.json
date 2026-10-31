@@ -1,14 +1,5 @@
 [
   {
-    "id": 19738359632,
-    "type": "Run",
-    "name": "Morning Run",
-    "start_date_local": "2026-08-14T07:31:59Z",
-    "moving_time": 1243,
-    "distance": 2725.4,
-    "average_heartrate": 148.4
-  },
-  {
     "id": 19737854316,
     "type": "Run",
     "name": "Morning Run",
@@ -538,5 +529,14 @@
     "moving_time": 2613,
     "distance": 5290.9,
     "average_heartrate": 165.4
+  },
+  {
+    "id": 20805225306,
+    "type": "Run",
+    "name": "Saturday long run",
+    "start_date_local": "2026-10-31T09:45:52Z",
+    "moving_time": 3599,
+    "distance": 7524.0,
+    "average_heartrate": 156.8
   }
 ]
