@@ -1,14 +1,5 @@
 [
   {
-    "id": 19784107728,
-    "type": "Walk",
-    "name": "Afternoon Walk",
-    "start_date_local": "2026-08-17T13:47:59Z",
-    "moving_time": 2669,
-    "distance": 1711.3,
-    "average_heartrate": 104.9
-  },
-  {
     "id": 19802264110,
     "type": "Ride",
     "name": "Evening Ride",
@@ -538,5 +529,14 @@
     "moving_time": 3209,
     "distance": 6459.0,
     "average_heartrate": 157.3
+  },
+  {
+    "id": 20861534080,
+    "type": "Run",
+    "name": "Afternoon Run",
+    "start_date_local": "2026-11-04T14:40:24Z",
+    "moving_time": 2395,
+    "distance": 4410.0,
+    "average_heartrate": 167.9
   }
 ]
