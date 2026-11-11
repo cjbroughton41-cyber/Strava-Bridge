@@ -1,14 +1,5 @@
 [
   {
-    "id": 19831004965,
-    "type": "Run",
-    "name": "Evening Run",
-    "start_date_local": "2026-08-20T20:10:00Z",
-    "moving_time": 1799,
-    "distance": 4844.1,
-    "average_heartrate": 183.8
-  },
-  {
     "id": 19830848669,
     "type": "Run",
     "name": "Evening Run",
@@ -538,5 +529,14 @@
     "moving_time": 4796,
     "distance": 9693.0,
     "average_heartrate": 168.0
+  },
+  {
+    "id": 20946305162,
+    "type": "Run",
+    "name": "Morning Run",
+    "start_date_local": "2026-11-11T07:14:07Z",
+    "moving_time": 2293,
+    "distance": 5138.2,
+    "average_heartrate": 155.5
   }
 ]
